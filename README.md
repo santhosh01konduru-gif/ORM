@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date:19/11/2025 
 
 ## AIM
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
@@ -29,7 +29,8 @@ Execute Django admin and create details for 10 books
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+<img width="1913" height="975" alt="image" src="https://github.com/user-attachments/assets/18c23f3f-11ed-4efd-b5a9-786d3ff1d100" />
+
 
 
 ## RESULT
